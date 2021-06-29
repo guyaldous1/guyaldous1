@@ -5,7 +5,7 @@ I'm a Web Developer, Content Creator, Designer and Level 6 Computer Nerd. [I mak
 At the moment im specialising in Front-End Web Development, Wordpress Custom Themes and Plugins, the Hugo Framework and complex animation.
 
 ## Find me and some of my work 
-at [Studio Blueboat](https://blueboat.com.au/services/digital/) & [@BlueboatAU](https://github.com/BlueboatAU).
+at [Studio Blueboat](https://blueboat.com.au/services/digital/) -> Github -> [@BlueboatAU](https://github.com/BlueboatAU).
 
 ## I also freelance!
 [Lysdexia.Digital](https://lysdexia.digital)
