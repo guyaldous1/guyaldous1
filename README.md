@@ -6,7 +6,7 @@ At the moment I'm specialising in Front-End & Full Stack Web Development, WordPr
 
 ## Find me and some of my work 
 Currently - Product Manager @ [CheckWorkRights](https://checkworkrights.com.au) -> Github = [@checkworkrights](https://github.com/checkworkrights).
-Previously - Lead Developer @ [Studio Blueboat](https://blueboat.com.au/services/digital/) -> Github = [@BlueboatAU](https://github.com/BlueboatAU).
+<br>Previously - Lead Developer @ [Studio Blueboat](https://blueboat.com.au/services/digital/) -> Github = [@BlueboatAU](https://github.com/BlueboatAU).
 
 ## I also freelance!
 [Lysdexia.Digital](https://lysdexia.digital)
