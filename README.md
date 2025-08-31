@@ -5,7 +5,7 @@ I'm a Web Developer, Content Creator, Designer and Level 8 Computer Nerd. [I mak
 At the moment, I'm specialising in Front-End & Full Stack Web Development, WordPress Custom Themes and Plugins, React, the Hugo Framework, and tactile JS animation.
 
 ## Find me and some of my work 
-Currently - Tehnical Product Manager @ [CheckWorkRights](https://checkworkrights.com.au) -> Github = [@checkworkrights](https://github.com/checkworkrights).
+Currently - Technical Product Manager @ [CheckWorkRights](https://checkworkrights.com.au) -> Github = [@checkworkrights](https://github.com/checkworkrights).
 <br>Previously - Lead Developer @ [Studio Blueboat](https://blueboat.com.au/services/digital/) -> Github = [@BlueboatAU](https://github.com/BlueboatAU).
 
 ## I also freelance!
