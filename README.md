@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Guy Aldous
 
-I'm a Web Developer, Content Creator, Designer and Level 8 Computer Nerd. [I make weird stuff!](https://www.guyaldous.com/)
+I'm a Web Developer, User Experience Designer and Level 8 Computer Nerd. [I make weird stuff!](https://www.guyaldous.com/)
 
 At the moment, I'm specialising in Front-End & Full Stack Web Development, WordPress Custom Themes and Plugins, React, the Hugo Framework, and tactile JS animation.
 
